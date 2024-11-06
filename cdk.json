@@ -1,5 +1,5 @@
 {
-  "app": "node bin/ia_c project.js",
+  "app": "node bin/app.js",
   "watch": {
     "include": [
       "**"
